@@ -2,3 +2,4 @@ GIt is avversion control system.
 Git is free software.
 Git is Good.
 Git is learing.
+Git is a good plan.
