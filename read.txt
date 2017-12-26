@@ -13,3 +13,4 @@ Git now is bash1 point.
 >>>>>>> bash1
 Git dev again happen.
 Git dev write string.
+GIt issue-111
