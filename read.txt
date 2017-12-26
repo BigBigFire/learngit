@@ -12,3 +12,4 @@ Git have conflict.
 Git now is bash1 point.
 >>>>>>> bash1
 Git dev again happen.
+Git dev write string.
