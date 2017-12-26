@@ -6,3 +6,4 @@ Git is a good plan.
 Git branch learn.
 Git new HEAD is Dev.
 Git tracks changes of files.
+Git now is bash1 point.
