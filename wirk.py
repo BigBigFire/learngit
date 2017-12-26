@@ -10,3 +10,5 @@ i = int(raw_input("enter num"))
 =======
 i = int(raw_input("enter num"))
 >>>>>>> Stashed changes
+
+print "i = ", i
