@@ -4,4 +4,5 @@ Git is Good.
 Git is learing.
 Git is a good plan.
 Git branch learn.
+Git new HEAD is Dev.
 Git tracks changes of files.
