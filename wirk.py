@@ -1,2 +1,4 @@
-#!bin/bash
+#!/bin/bash
 print "succ"
+print "sssssss"
+
